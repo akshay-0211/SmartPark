@@ -13,7 +13,7 @@ SmartPark is a web application designed to streamline parking management and enh
    - [Desktop Design](https://www.figma.com/file/PMhFFNQ6CeyIv5ov1v6WNO/TechBytes?type=design&node-id=0%3A1&mode=design&t=EpvXQNQAvkikhtjs-1)
 
 ## Live Preview
-Find the live webite [here](https://sourabhaprasad.github.io/smartpark/).
+Find the live webite [here](https://akshay-0211.github.io/SmartPark/).
 
 ## Screenshots
 
